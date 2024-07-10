@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://c0.wallpaperflare.com/preview/740/621/170/wall-texture-pattern-backgorund.jpg"); /* Replace with your image path */
+    background-size:cover; /* Stretch image to cover the entire background */
+    background-repeat: no-repeat; /* Prevent image from repeating */
+    font-family: sans-serif; /* Set a default font family */
+  
+  }
+  
+  h1 {
+    color:beige; /* Change color to brown or your preference */
+    text-align: center; /* Center align the heading text */
+    margin-bottom: 20px; /* Add some space below the heading */
+  }
+  
+  button {
+    padding: 5px 10x; 
+    font-size: 19px;
+    border: none; 
+    border-radius: 5px;
+    margin: 2px;
+    cursor: pointer; 
+  }
+  
+  #add-button {
+    background-color: rgb(189, 235, 189); 
+    color: rgb(8, 8, 8);
+  }
+  
+  #mark-purchased {
+    background-color: orange; 
+    color: black;
+  }
+  
+  #clear-list {
+    background-color: red; 
+    color: white;
+  }
+  
